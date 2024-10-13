@@ -26,7 +26,7 @@ else:
 3. n = sum(int(digit) ** 2 for digit in str(n)) : 각 자릿수를 제곱 후 그 합을 다시 n에 저장.
 
 ---
-##Week 5 Assignment
+## Week 5 Assignment
 1. __docker exec <container_name> cat /etc/os-release__
 : 지정된 컨테이너 안에서 /etc/os-release 파일을 읽어와 출력함.
 
